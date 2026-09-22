@@ -1,0 +1,6 @@
+{
+  "name": "Cartwise",
+  "description": "Production-grade e-commerce platform with customer storefront, multi-step checkout, customer portal, admin back office, and intelligent shopping assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
